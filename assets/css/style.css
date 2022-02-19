@@ -1,0 +1,112 @@
+body{
+    background-color: rgb(126, 152, 141);
+}
+#head-card{
+    background-color: rgb(255, 218, 147);
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    color: rgb(126, 152, 141);
+}
+#head-card h5{
+    font-size: xx-large;
+    text-decoration: underline;
+}
+#today-forecast{
+    background-color: rgb(190, 130, 148);
+    border-radius: 10px;
+}
+ #list-1{
+    background-color: rgb(162, 176, 153);
+    color: white;
+    border-radius: 10px;
+}
+#forecast-card-1{
+    background-color: rgb(162, 176, 153);
+    border-color: rgb(255, 218, 147);
+    border-radius: 10px;
+    box-shadow: 5px 10px rgb(255, 218, 147);
+    transform: skewY(-1deg);
+}
+#forecast-card-2{
+    background-color: rgb(222, 191, 137);
+    border-color: rgb(255, 218, 147);
+    border-radius: 10px;
+    box-shadow: 5px 10px rgb(255, 218, 147);
+    transform: skewY(-1deg);
+}
+#forecast-card-3{
+    background-color: rgb(255, 218, 147);
+    border-color: rgb(255, 218, 147);
+    border-radius: 10px;
+    box-shadow: 5px 10px rgb(255, 218, 147);
+    transform: skewY(-1deg);
+}
+#forecast-card-4{
+    background-color: rgb(251, 170, 125);
+    border-color: rgb(255, 218, 147);
+    border-radius: 10px;
+    box-shadow: 5px 10px rgb(255, 218, 147);
+    transform: skewY(-1deg);
+}
+#forecast-card-5{
+    background-color: rgb(190, 130, 148);
+    border-color: rgb(255, 218, 147);
+    border-radius: 10px;
+    box-shadow: 5px 10px rgb(255, 218, 147);
+    transform: skewY(-1deg);
+}
+.map{
+    background-color: rgb(126, 152, 141);
+}
+.localWeatherCard{
+    background-color: rgb(238, 224, 228);
+    line-height: 14px;
+    font-size: medium;
+    padding: 5px;
+    border-radius: 25px;
+    text-align: center;
+}
+.card{
+    border-radius: 10px;
+}
+.gMap{
+    border-radius: 20px;
+}
+.historyBtn{
+
+    border-radius: 10px;
+    background-color: rgb(251, 170, 125);
+}
+.historyBtn:hover {
+    transform: scale(1.1);
+    background-color: rgb(255, 218, 147);
+    box-shadow: 0 0 5px rgb(190, 130, 148);
+    color: rgb(190, 130, 148);
+}
+.searchBtn{
+    background-color: rgb(190, 130, 148);
+}
+.searchBtn:hover{
+    transform: scale(1.1);
+    background-color: rgb(251, 170, 125);
+
+    border-radius: 20px;
+}
+.img{
+    width: 80px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.cardText{
+    margin-left: 10px;
+    text-align: center;
+    font-size: large;
+
+}
+
+.bigImg {
+   text-align: center;
+}
